@@ -1,0 +1,33 @@
+_repo: Bohemia-under-Hapsburg-MisruleA-Study-of-the-Ideals-and-Aspirations-of-the-Bohemian-and-Slova__45993
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45993-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Capek, Thomas
+    alias: Čapek, Thomas
+    birthdate: 1861
+    deathdate: 1950
+    gutenberg_agent_id: '43559'
+    url: http://www.gutenberg.org/2009/agents/43559
+description: ''
+gutenberg_issued: '2014-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45993'
+  lccn: '15015104'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bohemia (Czech Republic)'
+- !lcsh 'Nationalism -- Czech Republic -- Bohemia'
+- !lcc 'DB'
+- !lcsh 'Slovaks'
+title: 'Bohemia under Hapsburg Misrule
+
+  A Study of the Ideals and Aspirations of the Bohemian and Slovak Peoples, as They
+  Relate to and Are Affected by the Great European War'
+url: http://www.gutenberg.org/ebooks/45993
