@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '43559'
     url: http://www.gutenberg.org/2009/agents/43559
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45993#Bohemia-under-Hapsburg-MisruleA-Study-of-the-Ideals-and-Aspirations-of-the-Bohemian-and-Slova_
 gutenberg_issued: '2014-06-16'
 gutenberg_type: Text
 identifiers:
